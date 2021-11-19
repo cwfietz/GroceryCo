@@ -6,7 +6,14 @@ namespace GroceryCoProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string greeting = "Hello.";
+            Console.WriteLine(greeting);
+            Console.WriteLine("What is your name?");
+            var name = Console.ReadLine();
+            var currentDate = DateTime.Now;
+            Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate}");
+            Console.Write($"{Environment.NewLine}Press a key to exit.{Environment.NewLine}");
+            Console.ReadKey(true);
         }
     }
 }

@@ -10,13 +10,15 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/GroceryCoProject/bin/Debug/netcoreapp2.1/GroceryCoProject.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/GroceryCoProject",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.1/GroceryCoProject.dll",
+            "args": ["run", "debug"],
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            // "console": "internalConsole", <-- default
+            // "console": "internalConsole",
             "console": "integratedTerminal",
-            "stopAtEntry": false
+            // "stopAtEntry": false
+            "stopAtEntry": true,
+            "justMyCode": false
         },
         {
             "name": ".NET Core Attach",

@@ -1,0 +1,11 @@
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/bin/Debug/netcoreapp2.1/GroceryCoProject.deps.json
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/bin/Debug/netcoreapp2.1/GroceryCoProject.runtimeconfig.json
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/bin/Debug/netcoreapp2.1/GroceryCoProject.runtimeconfig.dev.json
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/bin/Debug/netcoreapp2.1/GroceryCoProject.dll
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/bin/Debug/netcoreapp2.1/GroceryCoProject.pdb
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/obj/Debug/netcoreapp2.1/GroceryCoProject.csprojAssemblyReference.cache
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/obj/Debug/netcoreapp2.1/GroceryCoProject.csproj.CoreCompileInputs.cache
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/obj/Debug/netcoreapp2.1/GroceryCoProject.AssemblyInfoInputs.cache
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/obj/Debug/netcoreapp2.1/GroceryCoProject.AssemblyInfo.cs
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/obj/Debug/netcoreapp2.1/GroceryCoProject.dll
+/Users/cwfietz/src/Projects/GroceryCo/GroceryCoProject/obj/Debug/netcoreapp2.1/GroceryCoProject.pdb
